@@ -1,4 +1,4 @@
-# Chainlist
+/gateway/configuration#secret-refs-env-file-exec# Chainlist
 
 ## Add a chain
 
